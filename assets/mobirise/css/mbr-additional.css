@@ -621,6 +621,18 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rRSLuQeSQv {
+  background: #ffffff;
+}
+.cid-rRSLuQeSQv .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rRSLuQeSQv .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rRSrtOPIBe {
   background-image: url("../../../assets/images/sin-ttulo-2-1920x1080.jpg");
 }

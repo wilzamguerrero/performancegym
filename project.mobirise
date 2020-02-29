@@ -13,13 +13,13 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Agency_FB",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Agency_FB",
         "display2Size": 3,
         "display5Font": "Rubik",
         "display5Size": 1.5,
-        "display7Font": "Rubik",
+        "display7Font": "Agency_FB",
         "display7Size": 1,
         "display4Font": "Agency_FB",
         "display4Size": "1.6",
@@ -46,6 +46,11 @@
         "name": "Agency_FB",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Agency_FB/font.ttf"
+      },
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
     "versionFirst": "4.7.6",
@@ -65,11 +70,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "performancegym.ml",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/pgym1-1920x1080.jpg"
       },
       "components": [
         {
